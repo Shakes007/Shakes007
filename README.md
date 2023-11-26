@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shaakier Samsodien
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Django
   
 <!---
 Shakes007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
