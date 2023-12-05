@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaakier Samsodien
-- 👀 I’m interested in software engineering
+- 👀 I’m a software engineer graduate from HyperionDev.
   
 <!---
 Shakes007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
